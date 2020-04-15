@@ -12,3 +12,9 @@ def link
   test_3 = "It's Dangerous To Go Alone! Take This."
   puts test_3
 end 
+
+def all_phrases
+  mario
+  toadstool
+  link
+end
