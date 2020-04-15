@@ -9,4 +9,4 @@ def toadstool
 end
 
 def link
-  
+  test_3 = "It"
